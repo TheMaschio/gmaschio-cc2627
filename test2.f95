@@ -1,0 +1,6 @@
+PROGRAM test2
+  IMPLICIT NONE
+  INTEGER :: i
+  i=4
+  PRINT *, i
+END PROGRAM test2
